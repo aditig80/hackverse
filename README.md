@@ -1,6 +1,9 @@
 # 🚀 HackVerse - Developer's Social Hub
 
-![HackVerse Banner](https://via.placeholder.com/1200x400/1a1a2e/ffffff?text=HackVerse+-+Code.+Connect.+Collaborate.)
+## 🎨 Project Screenshots
+![Screenshot 2025-06-19 182014](https://github.com/user-attachments/assets/00e892bc-f9b8-4dcd-ba8a-244d32621542)
+![Screenshot 2025-06-19 182001](https://github.com/user-attachments/assets/d0914757-8620-409e-a77a-ce2e2fe309a8)
+![Screenshot 2025-06-19 182036](https://github.com/user-attachments/assets/544ae2c8-d2bf-463b-92f7-3af2e86b7d70)
 
 **Connect with developers worldwide, showcase your projects, and grow together!**  
 Live Demo: [https://hackverse-seven.vercel.app/](https://hackverse-seven.vercel.app/)
