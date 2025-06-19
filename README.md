@@ -1,4 +1,7 @@
-# 🚀 HackVerse - Developer's Social Hub
+# 🚀 Hackverse – Modern Telecom SaaS Landing Page
+
+Hackverse is a modern, high-performance **telecom SaaS landing page** inspired by the stunning design and animations of [Effortel](https://effortel.com/). Built with **React**, **Styled-Components**, **Tailwind CSS**, and **Framer Motion**, it delivers smooth page transitions, responsive layouts, and animated hover effects to impress both clients and developers alike.
+
 
 ## 🎨 Project Screenshots
 ![Screenshot 2025-06-19 182347](https://github.com/user-attachments/assets/0b336334-c7ce-4c99-b366-6603fce649d2)
@@ -9,24 +12,25 @@
 **Connect with developers worldwide, showcase your projects, and grow together!**  
 Live Demo: [https://hackverse-seven.vercel.app/](https://hackverse-seven.vercel.app/)
 
-## 🌟 Features
+## 🧩 Features
 
-- 👨‍💻 **Developer Profiles** - Showcase your skills, projects, and contributions
-- 🔥 **Project Showcase** - Share your work with the community
-- 💬 **Real-time Chat** - Connect with other developers instantly
-- 🏆 **Skill Badges** - Earn recognition for your expertise
-- 🌐 **Global Network** - Find collaborators worldwide
-- 📅 **Hackathon Hub** - Discover and join upcoming hackathons
-
+✅ Animated hero section with video support  
+✅ Hover-switching smart feature cards  
+✅ Smooth page transitions using Framer Motion  
+✅ Back to Top button with animated scroll  
+✅ Mobile-first responsive layout  
+✅ Reusable styled components  
+✅ MVNO tools and stat cards  
+✅ Fully customizable and developer-friendly  
 ## 🛠 Tech Stack
 
-- **Frontend**: Next.js, Tailwind CSS, React
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Authentication**: NextAuth
-- **Realtime**: Socket.io
-- **Deployment**: Vercel
+## 🛠️ Tech Stack
 
+| Frontend  | Styling | Animation |
+|-----------|---------|-----------|
+| React     | Tailwind CSS | Framer Motion |
+| Styled-Components | CSS Modules | Scroll + Hover Effects |
+| React Icons | Unsplash Images | Motion Transitions |
 ## 🚀 Quick Start
 
 1. Clone the repository:
@@ -36,4 +40,4 @@ Live Demo: [https://hackverse-seven.vercel.app/](https://hackverse-seven.vercel.
    npm install
    ```
 
-   <p align="center"> <strong>Made with ❤️ by developers, for developers</strong> </p> <p align="center"> <a href="https://hackverse-seven.vercel.app/">Visit HackVerse</a> | <a href="https://github.com/your-username/hackverse/issues">Report Bug</a> | <a href="https://github.com/your-username/hackverse/issues">Request Feature</a> </p> ```
+   <p align="center"> <strong>uilt with 💙 by Hackverse Team</strong> </p> <p align="center"> <a href="https://hackverse-seven.vercel.app/">Visit HackVerse</a> | <a href="https://github.com/your-username/hackverse/issues">Report Bug</a> | <a href="https://github.com/your-username/hackverse/issues">Request Feature</a> </p> ```
