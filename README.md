@@ -1,9 +1,10 @@
 # 🚀 HackVerse - Developer's Social Hub
 
 ## 🎨 Project Screenshots
-![Screenshot 2025-06-19 182014](https://github.com/user-attachments/assets/00e892bc-f9b8-4dcd-ba8a-244d32621542)
-![Screenshot 2025-06-19 182001](https://github.com/user-attachments/assets/d0914757-8620-409e-a77a-ce2e2fe309a8)
-![Screenshot 2025-06-19 182036](https://github.com/user-attachments/assets/544ae2c8-d2bf-463b-92f7-3af2e86b7d70)
+![Screenshot 2025-06-19 182347](https://github.com/user-attachments/assets/0b336334-c7ce-4c99-b366-6603fce649d2)
+![Screenshot 2025-06-19 182335](https://github.com/user-attachments/assets/5ac4ae55-9499-4f26-a0ca-137400e2d1e7)
+![Screenshot 2025-06-19 182402](https://github.com/user-attachments/assets/ebd2aaae-652b-4a91-afcb-7858b4d3b427)
+
 
 **Connect with developers worldwide, showcase your projects, and grow together!**  
 Live Demo: [https://hackverse-seven.vercel.app/](https://hackverse-seven.vercel.app/)
