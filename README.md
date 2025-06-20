@@ -1,4 +1,4 @@
-# 🚀 Hackverse – Modern Telecom SaaS Landing Page
+# 🚀 Hackverse – Modern Telecom SaaS Landing Page - Vibe Coding through AI models
 
 Hackverse is a modern, high-performance **telecom SaaS landing page** inspired by the stunning design and animations of [Effortel](https://effortel.com/). Built with **React**, **Styled-Components**, **Tailwind CSS**, and **Framer Motion**, it delivers smooth page transitions, responsive layouts, and animated hover effects to impress both clients and developers alike.
 
@@ -24,8 +24,6 @@ Live Demo: [https://hackverse-seven.vercel.app/](https://hackverse-seven.vercel.
 ✅ Fully customizable and developer-friendly  
 ## 🛠 Tech Stack
 
-## 🛠️ Tech Stack
-
 | Frontend  | Styling | Animation |
 |-----------|---------|-----------|
 | React     | Tailwind CSS | Framer Motion |
@@ -40,4 +38,4 @@ Live Demo: [https://hackverse-seven.vercel.app/](https://hackverse-seven.vercel.
    npm install
    ```
 
-   <p align="center"> <strong>uilt with 💙 by Hackverse Team</strong> </p> <p align="center"> <a href="https://hackverse-seven.vercel.app/">Visit HackVerse</a> | <a href="https://github.com/your-username/hackverse/issues">Report Bug</a> | <a href="https://github.com/your-username/hackverse/issues">Request Feature</a> </p> ```
+   <p align="center"> <strong>Built with 💙 by Hackverse Team</strong> </p> <p align="center"> <a href="https://hackverse-seven.vercel.app/">Visit HackVerse</a> | <a href="https://github.com/your-username/hackverse/issues">Report Bug</a> | <a href="https://github.com/your-username/hackverse/issues">Request Feature</a> </p> 
